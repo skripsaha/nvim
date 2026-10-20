@@ -1,0 +1,9 @@
+{
+  "languageserver": {
+    "asm-lsp": {
+      "command": "asm-lsp",
+      "filetypes": ["asm", "s", "S"],
+      "rootPatterns": [".git"]
+    }
+  }
+}
